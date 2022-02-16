@@ -7,9 +7,8 @@ A collection of resources, both CS and non-CS that I have found useful.
 - Effective Java by Joshua Bloch
 
 ## Online Resources:
-- [https://www.executeprogram.com/](https://www.executeprogram.com/)
-- [https://www.destroyallsoftware.com/screencasts](https://www.destroyallsoftware.com/screencasts)
-- [https://gist.github.com/Murphydbuffalo/02be0451114c181b6eb2080aa55c1f15](https://gist.github.com/Murphydbuffalo/02be0451114c181b6eb2080aa55c1f15)
+- [Execute Program][https://www.executeprogram.com/](https://www.executeprogram.com/)
+- [Destroy Software][https://www.destroyallsoftware.com/screencasts](https://www.destroyallsoftware.com/screencasts)
 
 ## Art References:
 
