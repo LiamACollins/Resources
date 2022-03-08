@@ -1,5 +1,6 @@
 # Resources
 A collection of resources, both CS and non-CS that I have found useful.
+Credits to Dan Murphy for directing me to a lot of these resources.
 
 ## Books:
 - Spark: The Definitive Guide by Bill Chambers and Matei Zaharia
