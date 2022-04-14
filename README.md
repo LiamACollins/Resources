@@ -16,6 +16,8 @@ Credits to Dan Murphy for directing me to a lot of these resources.
 
 ![Elephant Art - Liam Collins](https://user-images.githubusercontent.com/54238206/154375854-df36da6c-c97c-4889-8ac6-c5e0708436d5.jpg "Elephant Art")
 
+
+Useful Recommendations I've been given. Big credit to @Murphydbuffalo here!
 ## Algorithms
 + [Visualize sorting algorithms](https://www.toptal.com/developers/sorting-algorithms)
 + [How hash tables/dictionaries work](https://stackoverflow.com/questions/730620/how-does-a-hash-table-work)
