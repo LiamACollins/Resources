@@ -4,7 +4,7 @@ A collection of resources which I have found useful.
 Credits to Dan Murphy for directing me to a lot of these resources.
 
 ## Languages:
-- Cool visual representation of languages over time [https://githut.info/]
+- Cool visual representation of languages over (time) [https://githut.info/]
 
 ## Books:
 - Spark: The Definitive Guide by Bill Chambers and Matei Zaharia
