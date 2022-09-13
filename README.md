@@ -4,7 +4,7 @@ A collection of resources which I have found useful.
 Credits to Dan Murphy for directing me to a lot of these resources.
 
 ## Languages:
-- Cool visual representation of languages over (time) [https://githut.info/]
+- Cool visual representation of languages over [time](https://githut.info/)
 
 ## Books:
 - Spark: The Definitive Guide by Bill Chambers and Matei Zaharia
@@ -12,8 +12,8 @@ Credits to Dan Murphy for directing me to a lot of these resources.
 - Effective Java by Joshua Bloch
 
 ## Online Resources:
-- [Execute Program][https://www.executeprogram.com/](https://www.executeprogram.com/)
-- [Destroy Software][https://www.destroyallsoftware.com/screencasts](https://www.destroyallsoftware.com/screencasts)
+- [Execute Program](https://www.executeprogram.com/)
+- [Destroy Software](https://www.destroyallsoftware.com/screencasts)
 
 ## Art References:
 
